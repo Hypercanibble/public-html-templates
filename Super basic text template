@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My file</h1>
+    <p>This is my new HTML code.</p>
+    <br>
+    <p>This is my second paragraph.</p>
+    <i style="text-align:center">Here's an important note!</i>
+  </body>
+</html>
